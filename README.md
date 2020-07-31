@@ -1,2 +1,2 @@
 # ProjectFront-End
-Skylab Project Front-End [Gabriel&amp;Gemma&amp;Dani]
+Skylab Project Front-End [Gabriel&amp;Gemma&amp;Jordi&amp]
